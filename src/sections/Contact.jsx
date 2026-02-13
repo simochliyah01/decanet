@@ -137,10 +137,10 @@ function Contact() {
                 Spécialiste du nettoyage industriel et entretien des extérieurs. La propreté, au-delà de vos attentes.
               </p>
               <div className="footer-social">
-                <a href="#" className="social-link" aria-label="Facebook"><FaFacebookF /></a>
-                <a href="#" className="social-link" aria-label="Instagram"><FaInstagram /></a>
-                <a href="#" className="social-link" aria-label="LinkedIn"><FaLinkedinIn /></a>
-                <a href="https://wa.me/212658763994" className="social-link whatsapp" aria-label="WhatsApp"><FaWhatsapp /></a>
+                <button className="social-link" aria-label="Facebook"><FaFacebookF /></button>
+                <button className="social-link" aria-label="Instagram"><FaInstagram /></button>
+                <button className="social-link" aria-label="LinkedIn"><FaLinkedinIn /></button>
+                <button className="social-link whatsapp" aria-label="WhatsApp" target="_blank" rel="noopener noreferrer"><FaWhatsapp /></button>
               </div>
             </div>
 
