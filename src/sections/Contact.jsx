@@ -17,7 +17,7 @@ function Contact() {
     {
       icon: <FaPhone />,
       title: "Téléphone",
-      details: ["06.58.76.39.94", "06.69.99.00.92"]
+      details: ["06.58.76.39.94"]
     },
     {
       icon: <FaEnvelope />,
@@ -195,7 +195,7 @@ function Contact() {
 
           {/* Footer Bottom */}
           <div className="footer-bottom">
-            <p>&copy; 2024 DECA NET. Tous droits réservés.</p>
+            <p>&copy; DECA NET. Tous droits réservés.</p>
             <p>Société marocaine spécialisée dans le nettoyage industriel</p>
           </div>
 
